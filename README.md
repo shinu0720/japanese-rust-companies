@@ -111,7 +111,7 @@
     - プロセッサのソースコードやドキュメント、テストケースの自動生成
     - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
 
-### [株式会社 POL](https://pol.co.jp/)
+### [株式会社 LabBase (旧名 株式会社POL)](https://pol.co.jp/)
 
 - LabTech（研究 × Technology）領域で事業を展開している会社です。
 - 3 つのサービスを運営しています。
